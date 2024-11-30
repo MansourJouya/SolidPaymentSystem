@@ -130,7 +130,7 @@ orderProcessor.ProcessOrder(150.0m); // Process Credit Card order
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 For inquiries, you can contact me at: [jouya.m@gmail.com](mailto:jouya.m@gmail.com)
 
